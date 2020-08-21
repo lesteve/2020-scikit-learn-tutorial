@@ -34,7 +34,7 @@ root of this repository to make sure you have the necessary packages installed:
 
 ```sh
 # Activate your conda environment
-conda activate intro-datascience
+conda activate scikit-learn-tutorial
 python check_env.py
 ```
 
@@ -42,7 +42,7 @@ python check_env.py
 
 ```sh
 # Activate your conda environment
-conda activate intro-datascience
+conda activate scikit-learn-tutorial
 jupyter notebook
 ```
 
